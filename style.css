@@ -9,3 +9,11 @@ body {
     margin: auto;
     margin-top: 80px;
 }
+
+.font {
+    font-family: 'Quicksand', sans-serif;
+    line-height: 0.5em;
+    text-align: center;
+    padding-top: 10px;
+    color: rgb(26, 0, 97);
+}
