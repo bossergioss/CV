@@ -10,10 +10,15 @@ body {
     margin-top: 80px;
 }
 
-.font {
+h1, h2, h3 {
     font-family: 'Quicksand', sans-serif;
     line-height: 0.5em;
     text-align: center;
     padding-top: 10px;
     color: rgb(26, 0, 97);
+}
+
+ul {
+    color: #1A2A4E;
+    font-size: 1.2em;
 }
